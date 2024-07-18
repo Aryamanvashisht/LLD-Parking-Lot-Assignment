@@ -27,7 +27,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ParkingLotSystem.git
+    https://github.com/Aryamanvashisht/LLD-Parking-Lot-Assignment.git
     ```
 
 2. Navigate to the project directory:
@@ -60,4 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Aryaman - [aryamanvashisht900@gmail.com](mailto:aryamanvashisht900@gmail.com)
 
-Project Link: [https://github.com/yourusername/ParkingLotSystem](https://github.com/yourusername/ParkingLotSystem)
